@@ -1,13 +1,13 @@
 {
     "options": [
-      { "id": 1, "title": "outline for a", "icon":"ListIcon"},
-      { "id": 2, "title": "bullet list of", "icon":"List1Icon"},
-      { "id": 3, "title": "headline for a", "icon":"HeadingSquare"},
-      { "id": 4, "title": "paragraph about", "icon":"ParagraphSquare"},
-      { "id": 5, "title": "couple paragraphs about", "icon":"MultiParagraphSquare"},
-      { "id": 6, "title": "sentence about", "icon":"Menu"},
-      { "id": 7, "title": "few ideas for", "icon":"Lightbulb"},
-      { "id": 8, "title": "bit of information about", "icon":"InfoCircle"},
-      { "id": 9, "title": "email to", "icon":"Mail"}
+      { "text": "outline for a", "icon":"ListIcon"},
+      { "text": "bullet list of", "icon":"List1Icon"},
+      { "text": "headline for a", "icon":"HeadingSquare"},
+      { "text": "paragraph about", "icon":"ParagraphSquare"},
+      { "text": "couple paragraphs about", "icon":"MultiParagraphSquare"},
+      { "text": "sentence about", "icon":"Menu"},
+      { "text": "few ideas for", "icon":"Lightbulb"},
+      { "text": "bit of information about", "icon":"InfoCircle"},
+      { "text": "email to", "icon":"Mail"}
     ]
   }
