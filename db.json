@@ -6,7 +6,7 @@
       { "text": "paragraph about", "icon":"ParagraphSquare"},
       { "text": "couple paragraphs about", "icon":"MultiParagraphSquare"},
       { "text": "sentence about", "icon":"Menu"},
-      { "text": "few ideas for", "icon":"Lightbulb"},
+      { "text": "few ideas for", "icon":"LightBulb"},
       { "text": "bit of information about", "icon":"InfoCircle"},
       { "text": "email to", "icon":"Mail"}
     ]
